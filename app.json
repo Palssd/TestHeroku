@@ -9,7 +9,7 @@ quotes = quotesnya.result.quotes
        stst = await kurr.getStatus(`${sender.split('@')[0]}@c.us`)
 				stst = stst.status == 401 ? '' : stst.status
        menu = `╭─❒ 「 Bot Info 」 ❒
-🏴‍☠️ _Creator : *KurrXd*
+🏴‍☠️ _Creator : *ValzzBotz*
 🏴‍☠️ _Battery : *35*_
 🏴‍☠️ _Battery : ${baterai.battery}_
 🏴‍☠️ _Mode : ${publik ? 'Public' : 'Self'}_
@@ -18,7 +18,7 @@ quotes = quotesnya.result.quotes
 🏴‍☠️ _Prefix : ${multi ? 'Multi Prefix' : 'No Prefix'}_
 🏴‍☠️ _Nama Bot : Kurz Bot Assistan_
 🏴‍☠️ _Nama Owner : ${NamaOwner}_
-🏴‍☠️ _Nomor Owner : KurrXd
+🏴‍☠️ _Nomor Owner : 0882-1127-3802
 🏴‍☠️ _Auto Composing : ${settings.autocomposing}_
 🏴‍☠️ _Auto Recording : ${settings.autorecording}_
 └❏
@@ -57,7 +57,7 @@ ${nomor++}. 🏴‍☠️ ${prefix}storagemenu
 ${nomor++}. 🏴‍☠️ ${prefix}grupmenu
 𝘘𝘜𝘖𝘛𝘌𝘚  : ${quotes}
 └─────────────────❒`
-sendButLocation(from, `${menu}`, "*_© Kurz Bot Assistan_*", {jpegThumbnail:ofrply1,name:""}, [{buttonId:`store`,buttonText:{displayText:'𝙨𝙩𝙤𝙧𝙚 𝙢𝙚𝙣𝙪'},type:1},{buttonId:`sc`,buttonText:{displayText:'ＳＥＷＡ　ＢＯＴ'},type:1},{buttonId:`allmenu`,buttonText:{displayText:'CATALOG MENU'},type:1}], {contextInfo: { mentionedJid: [dtod,otod,stod]}})
+sendButLocation(from, `${menu}`, "*_© Valzz Bot Assistan_*", {jpegThumbnail:ofrply1,name:""}, [{buttonId:`store`,buttonText:{displayText:'𝙨𝙩𝙤𝙧𝙚 𝙢𝙚𝙣𝙪'},type:1},{buttonId:`sc`,buttonText:{displayText:'ＳＥＷＡ　ＢＯＴ'},type:1},{buttonId:`allmenu`,buttonText:{displayText:'CATALOG MENU'},type:1}], {contextInfo: { mentionedJid: [dtod,otod,stod]}})
 }
 else if(menusimpel = true){
         stod = `${sender}`
@@ -65,7 +65,7 @@ fill =`Hai Kak ${pushname}, ${tampilUcapan}
 Silahkan Pilih Untuk Menampilkan Menu
 
 Jika Button Tidak Muncul Ketik .allmenu`
-menu =` Kurz Bot Assistan🏴‍☠️`
+menu =` Valzz Bot Assistan🏴‍☠️`
 gbutsan = [
 {buttonId:`allmenu`,buttonText:{displayText:'🏴‍☠️SHOW MENU🏴‍☠️'},type:1},
 {buttonId:`store`,buttonText:{displayText:'🔰STORE MENU🔰'},type:1},
@@ -102,16 +102,16 @@ quotes = quotesnya.result.quotes
        stst = await kurr.getStatus(`${sender.split('@')[0]}@c.us`)
 				stst = stst.status == 401 ? '' : stst.status
        menu = `╭─❒ 「 Bot Info 」 ❒
-🏴‍☠️ _Creator : *KurrXd*
+🏴‍☠️ _Creator : *ValzzBotz*
 🏴‍☠️ _Battery : *35*_
 🏴‍☠️ _Battery : ${baterai.battery}_
 🏴‍☠️ _Mode : ${publik ? 'Public' : 'Self'}_
 🏴‍☠️ _Total Hit : ${cmhit.length}_
 🏴‍☠️ _Total menu : 385_
 🏴‍☠️ _Prefix : ${multi ? 'Multi Prefix' : 'No Prefix'}_
-🏴‍☠️ _Nama Bot : Kurz Bot Assistan_
+🏴‍☠️ _Nama Bot : Valzz Bot Assistan_
 🏴‍☠️ _Nama Owner : ${NamaOwner}_
-🏴‍☠️ _Nomor Owner : KurrXd
+🏴‍☠️ _Nomor Owner : 0882-1127-3802
 🏴‍☠️ _Auto Composing : ${settings.autocomposing}_
 🏴‍☠️ _Auto Recording : ${settings.autorecording}_
 └❏
@@ -243,7 +243,7 @@ ${nomor++}. 🏴‍☠️ ${prefix}nuliskiri [ _text_ ]
 ${nomor++}. 🏴‍☠️ ${prefix}maker3d [ _text_ ]
 ${nomor++}. 🏴‍☠️ ${prefix}maker2d [ _text_ ]
 ${nomor++}. 🏴‍☠️ ${prefix}epepserti [ _text_ ]`
-sendButLocation(from, `${menu}`, "*_© Kurz Bot Assistan_*", {jpegThumbnail:ofrply1,name:""}, [{buttonId:`menu`,buttonText:{displayText:'back to menu'},type:1},{buttonId:`sc`,buttonText:{displayText:'ＳＥＷＡ　ＢＯＴ'},type:1}], {contextInfo: { mentionedJid: [dtod,otod,stod]}})
+sendButLocation(from, `${menu}`, "*_© Valzz Bot Assistan_*", {jpegThumbnail:ofrply1,name:""}, [{buttonId:`menu`,buttonText:{displayText:'back to menu'},type:1},{buttonId:`sc`,buttonText:{displayText:'ＳＥＷＡ　ＢＯＴ'},type:1}], {contextInfo: { mentionedJid: [dtod,otod,stod]}})
 }
 else if(menusimpel = true){
         stod = `${sender}`
@@ -251,7 +251,7 @@ fill =`Hai Kak ${pushname}, ${tampilUcapan}
 Silahkan Pilih Untuk Menampilkan Menu
 
 Jika Button Tidak Muncul Ketik .allmenu`
-menu =` Kurz Bot Assistan🏴‍☠️`
+menu =` Valzz Bot Assistan🏴‍☠️`
 gbutsan = [
 {buttonId:`allmenu`,buttonText:{displayText:'🏴‍☠️SHOW MENU🏴‍☠️'},type:1},
 {buttonId:`store`,buttonText:{displayText:'🔰STORE MENU🔰'},type:1},
@@ -287,7 +287,7 @@ quotes = quotesnya.result.quotes
        stst = await kurr.getStatus(`${sender.split('@')[0]}@c.us`)
 				stst = stst.status == 401 ? '' : stst.status
        menu = `╭─❒ 「 Bot Info 」 ❒
-🏴‍☠️ _Creator : *KurrXd*
+🏴‍☠️ _Creator : *ValzzBotz*
 🏴‍☠️ _Battery : *35*_
 🏴‍☠️ _Battery : ${baterai.battery}_
 🏴‍☠️ _Mode : ${publik ? 'Public' : 'Self'}_
