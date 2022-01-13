@@ -294,9 +294,9 @@ quotes = quotesnya.result.quotes
 🏴‍☠️ _Total Hit : ${cmhit.length}_
 🏴‍☠️ _Total menu : 385_
 🏴‍☠️ _Prefix : ${multi ? 'Multi Prefix' : 'No Prefix'}_
-🏴‍☠️ _Nama Bot : Kurz Bot Assistan_
+🏴‍☠️ _Nama Bot : Valzz Bot Assistan_
 🏴‍☠️ _Nama Owner : ${NamaOwner}_
-🏴‍☠️ _Nomor Owner : KurrXd
+🏴‍☠️ _Nomor Owner : 0882-1127-3802
 🏴‍☠️ _Auto Composing : ${settings.autocomposing}_
 🏴‍☠️ _Auto Recording : ${settings.autorecording}_
 └❏
@@ -373,7 +373,7 @@ ${nomor++}. 🏴‍☠️ ${prefix}leavetime [ _detik/menit/jam_ ]
 ${nomor++}. 🏴‍☠️ ${prefix}bukatime [ _detik/menit/jam_ ]
 ${nomor++}. 🏴‍☠️ ${prefix}tutuptime [ _detik/menit/jam_ ]
 ${nomor++}. 🏴‍☠️ ${prefix}nano [ _nama file_ ]`
-sendButLocation(from, `${menu}`, "*_© Kurz Bot Assistan_*", {jpegThumbnail:ofrply1,name:""}, [{buttonId:`menu`,buttonText:{displayText:'back to menu'},type:1},{buttonId:`sc`,buttonText:{displayText:'ＳＥＷＡ　ＢＯＴ'},type:1}], {contextInfo: { mentionedJid: [dtod,otod,stod]}})
+sendButLocation(from, `${menu}`, "*_© Valzz Bot Assistan_*", {jpegThumbnail:ofrply1,name:""}, [{buttonId:`menu`,buttonText:{displayText:'back to menu'},type:1},{buttonId:`sc`,buttonText:{displayText:'ＳＥＷＡ　ＢＯＴ'},type:1}], {contextInfo: { mentionedJid: [dtod,otod,stod]}})
 }
 else if(menusimpel = true){
         stod = `${sender}`
@@ -381,7 +381,7 @@ fill =`Hai Kak ${pushname}, ${tampilUcapan}
 Silahkan Pilih Untuk Menampilkan Menu
 
 Jika Button Tidak Muncul Ketik .allmenu`
-menu =` Kurz Bot Assistan🏴‍☠️`
+menu =` Valzz Bot Assistan🏴‍☠️`
 gbutsan = [
 {buttonId:`allmenu`,buttonText:{displayText:'🏴‍☠️SHOW MENU🏴‍☠️'},type:1},
 {buttonId:`store`,buttonText:{displayText:'🔰STORE MENU🔰'},type:1},
@@ -417,16 +417,16 @@ quotes = quotesnya.result.quotes
        stst = await kurr.getStatus(`${sender.split('@')[0]}@c.us`)
 				stst = stst.status == 401 ? '' : stst.status
        menu = `╭─❒ 「 Bot Info 」 ❒
-🏴‍☠️ _Creator : *KurrXd*
+🏴‍☠️ _Creator : *ValzzBotz*
 🏴‍☠️ _Battery : *35*_
 🏴‍☠️ _Battery : ${baterai.battery}_
 🏴‍☠️ _Mode : ${publik ? 'Public' : 'Self'}_
 🏴‍☠️ _Total Hit : ${cmhit.length}_
 🏴‍☠️ _Total menu : 385_
 🏴‍☠️ _Prefix : ${multi ? 'Multi Prefix' : 'No Prefix'}_
-🏴‍☠️ _Nama Bot : Kurz Bot Assistan_
+🏴‍☠️ _Nama Bot : Valzz Bot Assistan_
 🏴‍☠️ _Nama Owner : ${NamaOwner}_
-🏴‍☠️ _Nomor Owner : KurrXd
+🏴‍☠️ _Nomor Owner : 0882-1127-3802
 🏴‍☠️ _Auto Composing : ${settings.autocomposing}_
 🏴‍☠️ _Auto Recording : ${settings.autorecording}_
 └❏
@@ -477,7 +477,7 @@ ${nomor++}. 🏴‍☠️ ${prefix}horny
 ${nomor++}. 🏴‍☠️ ${prefix}wibu
 ${nomor++}. 🏴‍☠️ ${prefix}puki
 ${nomor++}. 🏴‍☠️ ${prefix}pantex`
-sendButLocation(from, `${menu}`, "*_© Kurz Bot Assistan_*", {jpegThumbnail:ofrply1,name:""}, [{buttonId:`menu`,buttonText:{displayText:'back to menu'},type:1},{buttonId:`sc`,buttonText:{displayText:'ＳＥＷＡ　ＢＯＴ'},type:1}], {contextInfo: { mentionedJid: [dtod,otod,stod]}})
+sendButLocation(from, `${menu}`, "*_© Valzz Bot Assistan_*", {jpegThumbnail:ofrply1,name:""}, [{buttonId:`menu`,buttonText:{displayText:'back to menu'},type:1},{buttonId:`sc`,buttonText:{displayText:'ＳＥＷＡ　ＢＯＴ'},type:1}], {contextInfo: { mentionedJid: [dtod,otod,stod]}})
 }
 else if(menusimpel = true){
         stod = `${sender}`
@@ -485,7 +485,7 @@ fill =`Hai Kak ${pushname}, ${tampilUcapan}
 Silahkan Pilih Untuk Menampilkan Menu
 
 Jika Button Tidak Muncul Ketik .allmenu`
-menu =` Kurz Bot Assistan🏴‍☠️`
+menu =` Valzz Bot Assistan🏴‍☠️`
 gbutsan = [
 {buttonId:`allmenu`,buttonText:{displayText:'🏴‍☠️SHOW MENU🏴‍☠️'},type:1},
 {buttonId:`store`,buttonText:{displayText:'🔰STORE MENU🔰'},type:1},
@@ -521,16 +521,16 @@ quotes = quotesnya.result.quotes
        stst = await kurr.getStatus(`${sender.split('@')[0]}@c.us`)
 				stst = stst.status == 401 ? '' : stst.status
        menu = `╭─❒ 「 Bot Info 」 ❒
-🏴‍☠️ _Creator : *KurrXd*
+🏴‍☠️ _Creator : *ValzzBotz*
 🏴‍☠️ _Battery : *35*_
 🏴‍☠️ _Battery : ${baterai.battery}_
 🏴‍☠️ _Mode : ${publik ? 'Public' : 'Self'}_
 🏴‍☠️ _Total Hit : ${cmhit.length}_
 🏴‍☠️ _Total menu : 385_
 🏴‍☠️ _Prefix : ${multi ? 'Multi Prefix' : 'No Prefix'}_
-🏴‍☠️ _Nama Bot : Kurz Bot Assistan_
+🏴‍☠️ _Nama Bot : Valzz Bot Assistan_
 🏴‍☠️ _Nama Owner : ${NamaOwner}_
-🏴‍☠️ _Nomor Owner : KurrXd
+🏴‍☠️ _Nomor Owner : 0882-1127-3802
 🏴‍☠️ _Auto Composing : ${settings.autocomposing}_
 🏴‍☠️ _Auto Recording : ${settings.autorecording}_
 └❏
@@ -596,7 +596,7 @@ ${nomor++}. 🏴‍☠️ ${prefix}fb [ _link_ ]
 ${nomor++}. 🏴‍☠️ ${prefix}chara [ _search_ ]
 ${nomor++}. 🏴‍☠️ ${prefix}otaku [ _search_ ]
 ${nomor++}. 🏴‍☠️ ${prefix}komiku [ _search_ ]`
-sendButLocation(from, `${menu}`, "*_© Kurz Bot Assistan_*", {jpegThumbnail:ofrply1,name:""}, [{buttonId:`menu`,buttonText:{displayText:'back to menu'},type:1},{buttonId:`sc`,buttonText:{displayText:'ＳＥＷＡ　ＢＯＴ'},type:1}], {contextInfo: { mentionedJid: [dtod,otod,stod]}})
+sendButLocation(from, `${menu}`, "*_© Valzz Bot Assistan_*", {jpegThumbnail:ofrply1,name:""}, [{buttonId:`menu`,buttonText:{displayText:'back to menu'},type:1},{buttonId:`sc`,buttonText:{displayText:'ＳＥＷＡ　ＢＯＴ'},type:1}], {contextInfo: { mentionedJid: [dtod,otod,stod]}})
 }
 else if(menusimpel = true){
         stod = `${sender}`
@@ -604,7 +604,7 @@ fill =`Hai Kak ${pushname}, ${tampilUcapan}
 Silahkan Pilih Untuk Menampilkan Menu
 
 Jika Button Tidak Muncul Ketik .allmenu`
-menu =` Kurz Bot Assistan🏴‍☠️`
+menu =` Valzz Bot Assistan🏴‍☠️`
 gbutsan = [
 {buttonId:`allmenu`,buttonText:{displayText:'🏴‍☠️SHOW MENU🏴‍☠️'},type:1},
 {buttonId:`store`,buttonText:{displayText:'🔰STORE MENU🔰'},type:1},
@@ -640,16 +640,16 @@ quotes = quotesnya.result.quotes
        stst = await kurr.getStatus(`${sender.split('@')[0]}@c.us`)
 				stst = stst.status == 401 ? '' : stst.status
        menu = `╭─❒ 「 Bot Info 」 ❒
-🏴‍☠️ _Creator : *KurrXd*
+🏴‍☠️ _Creator : *ValzzBotz*
 🏴‍☠️ _Battery : *35*_
 🏴‍☠️ _Battery : ${baterai.battery}_
 🏴‍☠️ _Mode : ${publik ? 'Public' : 'Self'}_
 🏴‍☠️ _Total Hit : ${cmhit.length}_
 🏴‍☠️ _Total menu : 385_
 🏴‍☠️ _Prefix : ${multi ? 'Multi Prefix' : 'No Prefix'}_
-🏴‍☠️ _Nama Bot : Kurz Bot Assistan_
+🏴‍☠️ _Nama Bot : Valzz Bot Assistan_
 🏴‍☠️ _Nama Owner : ${NamaOwner}_
-🏴‍☠️ _Nomor Owner : KurrXd
+🏴‍☠️ _Nomor Owner : 0882-1127-3802
 🏴‍☠️ _Auto Composing : ${settings.autocomposing}_
 🏴‍☠️ _Auto Recording : ${settings.autorecording}_
 └❏
@@ -677,7 +677,7 @@ quotes = quotesnya.result.quotes
 🏴‍☠️─❒GAME MENU
 ${nomor++}. 🏴‍☠️ ${prefix}tebakgambar
 ${nomor++}. 🏴‍☠️ ${prefix}caklontong`
-sendButLocation(from, `${menu}`, "*_© Kurz Bot Assistan_*", {jpegThumbnail:ofrply1,name:""}, [{buttonId:`menu`,buttonText:{displayText:'back to menu'},type:1},{buttonId:`sc`,buttonText:{displayText:'ＳＥＷＡ　ＢＯＴ'},type:1}], {contextInfo: { mentionedJid: [dtod,otod,stod]}})
+sendButLocation(from, `${menu}`, "*_© Valzz Bot Assistan_*", {jpegThumbnail:ofrply1,name:""}, [{buttonId:`menu`,buttonText:{displayText:'back to menu'},type:1},{buttonId:`sc`,buttonText:{displayText:'ＳＥＷＡ　ＢＯＴ'},type:1}], {contextInfo: { mentionedJid: [dtod,otod,stod]}})
 }
 else if(menusimpel = true){
         stod = `${sender}`
@@ -685,7 +685,7 @@ fill =`Hai Kak ${pushname}, ${tampilUcapan}
 Silahkan Pilih Untuk Menampilkan Menu
 
 Jika Button Tidak Muncul Ketik .allmenu`
-menu =` Kurz Bot Assistan🏴‍☠️`
+menu =` Valzz Bot Assistan🏴‍☠️`
 gbutsan = [
 {buttonId:`allmenu`,buttonText:{displayText:'🏴‍☠️SHOW MENU🏴‍☠️'},type:1},
 {buttonId:`store`,buttonText:{displayText:'🔰STORE MENU🔰'},type:1},
@@ -721,16 +721,16 @@ quotes = quotesnya.result.quotes
        stst = await kurr.getStatus(`${sender.split('@')[0]}@c.us`)
 				stst = stst.status == 401 ? '' : stst.status
        menu = `╭─❒ 「 Bot Info 」 ❒
-🏴‍☠️ _Creator : *KurrXd*
+🏴‍☠️ _Creator : *ValzzBotz*
 🏴‍☠️ _Battery : *35*_
 🏴‍☠️ _Battery : ${baterai.battery}_
 🏴‍☠️ _Mode : ${publik ? 'Public' : 'Self'}_
 🏴‍☠️ _Total Hit : ${cmhit.length}_
 🏴‍☠️ _Total menu : 385_
 🏴‍☠️ _Prefix : ${multi ? 'Multi Prefix' : 'No Prefix'}_
-🏴‍☠️ _Nama Bot : Kurz Bot Assistan_
+🏴‍☠️ _Nama Bot : Valzz Bot Assistan_
 🏴‍☠️ _Nama Owner : ${NamaOwner}_
-🏴‍☠️ _Nomor Owner : KurrXd
+🏴‍☠️ _Nomor Owner : 0882-1127-3802
 🏴‍☠️ _Auto Composing : ${settings.autocomposing}_
 🏴‍☠️ _Auto Recording : ${settings.autorecording}_
 └❏
@@ -827,7 +827,7 @@ ${nomor++}. 🏴‍☠️ ${prefix}wallpaper
 ${nomor++}. 🏴‍☠️ ${prefix}pussy_jpg
 ${nomor++}. 🏴‍☠️ ${prefix}kemonomimi
 ${nomor++}. 🏴‍☠️ ${prefix}nsfw_avatar`
-sendButLocation(from, `${menu}`, "*_© Kurz Bot Assistan_*", {jpegThumbnail:ofrply1,name:""}, [{buttonId:`menu`,buttonText:{displayText:'back to menu'},type:1},{buttonId:`sc`,buttonText:{displayText:'ＳＥＷＡ　ＢＯＴ'},type:1}], {contextInfo: { mentionedJid: [dtod,otod,stod]}})
+sendButLocation(from, `${menu}`, "*_© Valzz Bot Assistan_*", {jpegThumbnail:ofrply1,name:""}, [{buttonId:`menu`,buttonText:{displayText:'back to menu'},type:1},{buttonId:`sc`,buttonText:{displayText:'ＳＥＷＡ　ＢＯＴ'},type:1}], {contextInfo: { mentionedJid: [dtod,otod,stod]}})
 }
 else if(menusimpel = true){
         stod = `${sender}`
@@ -835,7 +835,7 @@ fill =`Hai Kak ${pushname}, ${tampilUcapan}
 Silahkan Pilih Untuk Menampilkan Menu
 
 Jika Button Tidak Muncul Ketik .allmenu`
-menu =` Kurz Bot Assistan🏴‍☠️`
+menu =` Valzz Bot Assistan🏴‍☠️`
 gbutsan = [
 {buttonId:`allmenu`,buttonText:{displayText:'🏴‍☠️SHOW MENU🏴‍☠️'},type:1},
 {buttonId:`store`,buttonText:{displayText:'🔰STORE MENU🔰'},type:1},
@@ -871,16 +871,16 @@ quotes = quotesnya.result.quotes
        stst = await kurr.getStatus(`${sender.split('@')[0]}@c.us`)
 				stst = stst.status == 401 ? '' : stst.status
        menu = `╭─❒ 「 Bot Info 」 ❒
-🏴‍☠️ _Creator : *KurrXd*
+🏴‍☠️ _Creator : *ValzzBotz*
 🏴‍☠️ _Battery : *35*_
 🏴‍☠️ _Battery : ${baterai.battery}_
 🏴‍☠️ _Mode : ${publik ? 'Public' : 'Self'}_
 🏴‍☠️ _Total Hit : ${cmhit.length}_
 🏴‍☠️ _Total menu : 385_
 🏴‍☠️ _Prefix : ${multi ? 'Multi Prefix' : 'No Prefix'}_
-🏴‍☠️ _Nama Bot : Kurz Bot Assistan_
+🏴‍☠️ _Nama Bot : Valzz Bot Assistan_
 🏴‍☠️ _Nama Owner : ${NamaOwner}_
-🏴‍☠️ _Nomor Owner : KurrXd
+🏴‍☠️ _Nomor Owner : 0882-1127-3802
 🏴‍☠️ _Auto Composing : ${settings.autocomposing}_
 🏴‍☠️ _Auto Recording : ${settings.autorecording}_
 └❏
@@ -911,7 +911,7 @@ ${nomor++}. 🏴‍☠️ ${prefix}husbu
 ${nomor++}. 🏴‍☠️ ${prefix}milf
 ${nomor++}. 🏴‍☠️ ${prefix}cosplay
 ${nomor++}. 🏴‍☠️ ${prefix}wallml`
-sendButLocation(from, `${menu}`, "*_© Kurz Bot Assistan_*", {jpegThumbnail:ofrply1,name:""}, [{buttonId:`menu`,buttonText:{displayText:'back to menu'},type:1},{buttonId:`sc`,buttonText:{displayText:'ＳＥＷＡ　ＢＯＴ'},type:1}], {contextInfo: { mentionedJid: [dtod,otod,stod]}})
+sendButLocation(from, `${menu}`, "*_© Valzz Bot Assistan_*", {jpegThumbnail:ofrply1,name:""}, [{buttonId:`menu`,buttonText:{displayText:'back to menu'},type:1},{buttonId:`sc`,buttonText:{displayText:'ＳＥＷＡ　ＢＯＴ'},type:1}], {contextInfo: { mentionedJid: [dtod,otod,stod]}})
 }
 else if(menusimpel = true){
         stod = `${sender}`
@@ -919,7 +919,7 @@ fill =`Hai Kak ${pushname}, ${tampilUcapan}
 Silahkan Pilih Untuk Menampilkan Menu
 
 Jika Button Tidak Muncul Ketik .allmenu`
-menu =` Kurz Bot Assistan🏴‍☠️`
+menu =` Valzz Bot Assistan🏴‍☠️`
 gbutsan = [
 {buttonId:`allmenu`,buttonText:{displayText:'🏴‍☠️SHOW MENU🏴‍☠️'},type:1},
 {buttonId:`store`,buttonText:{displayText:'🔰STORE MENU🔰'},type:1},
@@ -955,16 +955,16 @@ quotes = quotesnya.result.quotes
        stst = await kurr.getStatus(`${sender.split('@')[0]}@c.us`)
 				stst = stst.status == 401 ? '' : stst.status
        menu = `╭─❒ 「 Bot Info 」 ❒
-🏴‍☠️ _Creator : *KurrXd*
+🏴‍☠️ _Creator : *ValzzBotz*
 🏴‍☠️ _Battery : *35*_
 🏴‍☠️ _Battery : ${baterai.battery}_
 🏴‍☠️ _Mode : ${publik ? 'Public' : 'Self'}_
 🏴‍☠️ _Total Hit : ${cmhit.length}_
 🏴‍☠️ _Total menu : 385_
 🏴‍☠️ _Prefix : ${multi ? 'Multi Prefix' : 'No Prefix'}_
-🏴‍☠️ _Nama Bot : Kurz Bot Assistan_
+🏴‍☠️ _Nama Bot : Valzz Bot Assistan_
 🏴‍☠️ _Nama Owner : ${NamaOwner}_
-🏴‍☠️ _Nomor Owner : KurrXd
+🏴‍☠️ _Nomor Owner : 0882-1127-3802
 🏴‍☠️ _Auto Composing : ${settings.autocomposing}_
 🏴‍☠️ _Auto Recording : ${settings.autorecording}_
 └❏
@@ -999,7 +999,7 @@ ${nomor++}. 🏴‍☠️ ${prefix}addvn [ _nama_ ]
 ${nomor++}. 🏴‍☠️ ${prefix}delvn [ _nama_ ]
 ${nomor++}. 🏴‍☠️ ${prefix}addimage [ _nama_ ]
 ${nomor++}. 🏴‍☠️ ${prefix}delimage [ _nama_ ]`
-sendButLocation(from, `${menu}`, "*_© Kurz Bot Assistan_*", {jpegThumbnail:ofrply1,name:""}, [{buttonId:`menu`,buttonText:{displayText:'back to menu'},type:1},{buttonId:`sc`,buttonText:{displayText:'ＳＥＷＡ　ＢＯＴ'},type:1}], {contextInfo: { mentionedJid: [dtod,otod,stod]}})
+sendButLocation(from, `${menu}`, "*_© Valzz Bot Assistan_*", {jpegThumbnail:ofrply1,name:""}, [{buttonId:`menu`,buttonText:{displayText:'back to menu'},type:1},{buttonId:`sc`,buttonText:{displayText:'ＳＥＷＡ　ＢＯＴ'},type:1}], {contextInfo: { mentionedJid: [dtod,otod,stod]}})
 }
 else if(menusimpel = true){
         stod = `${sender}`
@@ -1007,7 +1007,7 @@ fill =`Hai Kak ${pushname}, ${tampilUcapan}
 Silahkan Pilih Untuk Menampilkan Menu
 
 Jika Button Tidak Muncul Ketik .allmenu`
-menu =` Kurz Bot Assistan🏴‍☠️`
+menu =` Valzz Bot Assistan🏴‍☠️`
 gbutsan = [
 {buttonId:`allmenu`,buttonText:{displayText:'🏴‍☠️SHOW MENU🏴‍☠️'},type:1},
 {buttonId:`store`,buttonText:{displayText:'🔰STORE MENU🔰'},type:1},
@@ -1044,16 +1044,16 @@ quotes = quotesnya.result.quotes
        stst = await kurr.getStatus(`${sender.split('@')[0]}@c.us`)
 				stst = stst.status == 401 ? '' : stst.status
        menu = `╭─❒ 「 Bot Info 」 ❒
-🏴‍☠️ _Creator : *KurrXd*
+🏴‍☠️ _Creator : *ValzzBotz*
 🏴‍☠️ _Battery : *35*_
 🏴‍☠️ _Battery : ${baterai.battery}_
 🏴‍☠️ _Mode : ${publik ? 'Public' : 'Self'}_
 🏴‍☠️ _Total Hit : ${cmhit.length}_
 🏴‍☠️ _Total menu : 385_
 🏴‍☠️ _Prefix : ${multi ? 'Multi Prefix' : 'No Prefix'}_
-🏴‍☠️ _Nama Bot : Kurz Bot Assistan_
+🏴‍☠️ _Nama Bot : Valzz Bot Assistan_
 🏴‍☠️ _Nama Owner : ${NamaOwner}_
-🏴‍☠️ _Nomor Owner : KurrXd
+🏴‍☠️ _Nomor Owner : 0882-1127-3802
 🏴‍☠️ _Auto Composing : ${settings.autocomposing}_
 🏴‍☠️ _Auto Recording : ${settings.autorecording}_
 └❏
@@ -1099,7 +1099,7 @@ ${nomor++}. 🏴‍☠️ ${prefix}bass [ _reply audio_ ]
 ${nomor++}. 🏴‍☠️ ${prefix}gemuk [ _reply audio_ ]
 ${nomor++}. 🏴‍☠️ ${prefix}detikvn [ _reply audio caption angka_ ]
 ${nomor++}. 🏴‍☠️ ${prefix}detikvideo [ _reply video caption angka_ ]`
-sendButLocation(from, `${menu}`, "*_© Kurz Bot Assistan_*", {jpegThumbnail:ofrply1,name:""}, [{buttonId:`menu`,buttonText:{displayText:'back to menu'},type:1},{buttonId:`sc`,buttonText:{displayText:'ＳＥＷＡ　ＢＯＴ'},type:1}], {contextInfo: { mentionedJid: [dtod,otod,stod]}})
+sendButLocation(from, `${menu}`, "*_© Valzz Bot Assistan_*", {jpegThumbnail:ofrply1,name:""}, [{buttonId:`menu`,buttonText:{displayText:'back to menu'},type:1},{buttonId:`sc`,buttonText:{displayText:'ＳＥＷＡ　ＢＯＴ'},type:1}], {contextInfo: { mentionedJid: [dtod,otod,stod]}})
 }
 else if(menusimpel = true){
         stod = `${sender}`
@@ -1107,7 +1107,7 @@ fill =`Hai Kak ${pushname}, ${tampilUcapan}
 Silahkan Pilih Untuk Menampilkan Menu
 
 Jika Button Tidak Muncul Ketik .allmenu`
-menu =` Kurz Bot Assistan🏴‍☠️`
+menu =` Valzz Bot Assistan🏴‍☠️`
 gbutsan = [
 {buttonId:`allmenu`,buttonText:{displayText:'🏴‍☠️SHOW MENU🏴‍☠️'},type:1},
 {buttonId:`store`,buttonText:{displayText:'🔰STORE MENU🔰'},type:1},
@@ -1143,16 +1143,16 @@ quotes = quotesnya.result.quotes
        stst = await kurr.getStatus(`${sender.split('@')[0]}@c.us`)
 				stst = stst.status == 401 ? '' : stst.status
        menu = `╭─❒ 「 Bot Info 」 ❒
-🏴‍☠️ _Creator : *KurrXd*
+🏴‍☠️ _Creator : *ValzzBotz*
 🏴‍☠️ _Battery : *35*_
 🏴‍☠️ _Battery : ${baterai.battery}_
 🏴‍☠️ _Mode : ${publik ? 'Public' : 'Self'}_
 🏴‍☠️ _Total Hit : ${cmhit.length}_
 🏴‍☠️ _Total menu : 385_
 🏴‍☠️ _Prefix : ${multi ? 'Multi Prefix' : 'No Prefix'}_
-🏴‍☠️ _Nama Bot : Kurz Bot Assistan_
+🏴‍☠️ _Nama Bot : Valzz Bot Assistan_
 🏴‍☠️ _Nama Owner : ${NamaOwner}_
-🏴‍☠️ _Nomor Owner : KurrXd
+🏴‍☠️ _Nomor Owner : 0882-1127-3802
 🏴‍☠️ _Auto Composing : ${settings.autocomposing}_
 🏴‍☠️ _Auto Recording : ${settings.autorecording}_
 └❏
@@ -1201,7 +1201,7 @@ ${nomor++}. 🏴‍☠️ ${prefix}q [ _reply message_ ]
 ${nomor++}. 🏴‍☠️ ${prefix}getcaption [ _reply message_ ]
 ${nomor++}. 🏴‍☠️ ${prefix}tospam [ _reply audio/sticker/image|jumlah_ ]
 ${nomor++}. 🏴‍☠️ ${prefix}sharelock [ _teks1|teks2_ ]`
-sendButLocation(from, `${menu}`, "*_© Kurz Bot Assistan_*", {jpegThumbnail:ofrply1,name:""}, [{buttonId:`menu`,buttonText:{displayText:'back to menu'},type:1},{buttonId:`sc`,buttonText:{displayText:'ＳＥＷＡ　ＢＯＴ'},type:1}], {contextInfo: { mentionedJid: [dtod,otod,stod]}})
+sendButLocation(from, `${menu}`, "*_© Valzz Bot Assistan_*", {jpegThumbnail:ofrply1,name:""}, [{buttonId:`menu`,buttonText:{displayText:'back to menu'},type:1},{buttonId:`sc`,buttonText:{displayText:'ＳＥＷＡ　ＢＯＴ'},type:1}], {contextInfo: { mentionedJid: [dtod,otod,stod]}})
 }
 else if(menusimpel = true){
         stod = `${sender}`
@@ -1209,7 +1209,7 @@ fill =`Hai Kak ${pushname}, ${tampilUcapan}
 Silahkan Pilih Untuk Menampilkan Menu
 
 Jika Button Tidak Muncul Ketik .allmenu`
-menu =` Kurz Bot Assistan🏴‍☠️`
+menu =` Valzz Bot Assistan🏴‍☠️`
 gbutsan = [
 {buttonId:`allmenu`,buttonText:{displayText:'🏴‍☠️SHOW MENU🏴‍☠️'},type:1},
 {buttonId:`store`,buttonText:{displayText:'🔰STORE MENU🔰'},type:1},
@@ -1245,16 +1245,16 @@ quotes = quotesnya.result.quotes
        stst = await kurr.getStatus(`${sender.split('@')[0]}@c.us`)
 				stst = stst.status == 401 ? '' : stst.status
        menu = `╭─❒ 「 Bot Info 」 ❒
-🏴‍☠️ _Creator : *KurrXd*
+🏴‍☠️ _Creator : *ValzzBoTz*
 🏴‍☠️ _Battery : *35*_
 🏴‍☠️ _Battery : ${baterai.battery}_
 🏴‍☠️ _Mode : ${publik ? 'Public' : 'Self'}_
 🏴‍☠️ _Total Hit : ${cmhit.length}_
 🏴‍☠️ _Total menu : 385_
 🏴‍☠️ _Prefix : ${multi ? 'Multi Prefix' : 'No Prefix'}_
-🏴‍☠️ _Nama Bot : Kurz Bot Assistan_
+🏴‍☠️ _Nama Bot : Valzz Bot Assistan_
 🏴‍☠️ _Nama Owner : ${NamaOwner}_
-🏴‍☠️ _Nomor Owner : KurrXd
+🏴‍☠️ _Nomor Owner : 0882-1127-3802
 🏴‍☠️ _Auto Composing : ${settings.autocomposing}_
 🏴‍☠️ _Auto Recording : ${settings.autorecording}_
 └❏
@@ -1311,7 +1311,7 @@ ${nomor++}. 🏴‍☠️ ${prefix}linkgrup
 ${nomor++}. 🏴‍☠️ ${prefix}hidetag [ _teks_ ]
 ${nomor++}. 🏴‍☠️ ${prefix}sticktag [ _nama sticker_ ]
 ${nomor++}. 🏴‍☠️ ${prefix}totag [ _reply media_ ]`
-sendButLocation(from, `${menu}`, "*_© Kurz Bot Assistan_*", {jpegThumbnail:ofrply1,name:""}, [{buttonId:`menu`,buttonText:{displayText:'back to menu'},type:1},{buttonId:`sc`,buttonText:{displayText:'ＳＥＷＡ　ＢＯＴ'},type:1}], {contextInfo: { mentionedJid: [dtod,otod,stod]}})
+sendButLocation(from, `${menu}`, "*_© Valzz Bot Assistan_*", {jpegThumbnail:ofrply1,name:""}, [{buttonId:`menu`,buttonText:{displayText:'back to menu'},type:1},{buttonId:`sc`,buttonText:{displayText:'ＳＥＷＡ　ＢＯＴ'},type:1}], {contextInfo: { mentionedJid: [dtod,otod,stod]}})
 }
 else if(menusimpel = true){
         stod = `${sender}`
@@ -1319,7 +1319,7 @@ fill =`Hai Kak ${pushname}, ${tampilUcapan}
 Silahkan Pilih Untuk Menampilkan Menu
 
 Jika Button Tidak Muncul Ketik .allmenu`
-menu =` Kurz Bot Assistan🏴‍☠️`
+menu =` Valzz Bot Assistan🏴‍☠️`
 gbutsan = [
 {buttonId:`allmenu`,buttonText:{displayText:'🏴‍☠️SHOW MENU🏴‍☠️'},type:1},
 {buttonId:`store`,buttonText:{displayText:'🔰STORE MENU🔰'},type:1},
